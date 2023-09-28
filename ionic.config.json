@@ -1,0 +1,7 @@
+{
+  "name": "chrome117-custom-scheme-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
